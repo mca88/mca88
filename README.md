@@ -27,7 +27,7 @@ I love ducks 🦆, music 🎵, films 🎦, videogames 🎮 and robots 🤖. I go
 [![OS](https://skillicons.dev/icons?i=windows,ubuntu,mint,raspberrypi,ros)](https://skillicons.dev)
 
 ### Development tools
-[![Development tools](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,eclipse,git,gcp,azure,vercel,docker,jenkins,kafka,nginx,postman,powershell,bash)](https://skillicons.dev)
+[![Development tools](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,eclipse,git,gcp,azure,vercel,docker,jenkins,kafka,nginx,postman,powershell,bash&perline=9)](https://skillicons.dev)
 
 ### Data bases
 [![Development tools](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
